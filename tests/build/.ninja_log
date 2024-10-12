@@ -1,0 +1,21 @@
+# ninja log v6
+37	2583	7499163053035460	googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	7f73245acb44172a
+29	648	7499946123533136	CMakeFiles/TimeParserTest.dir/C_/Users/sammi/Desktop/vko5Pylkkonen/vko5/src/TimeParser.cpp.obj	ca289597cf23bdf1
+8068	8219	7499163133344015	lib/libgmock.a	bc36e334e2272585
+51	309	7499946123753321	CMakeFiles/TrafficParserTest.dir/C_/Users/sammi/Desktop/vko5Pylkkonen/vko5/src/TrafficParser.cpp.obj	3dd720def31df245
+160	3142	7499163054256384	googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	f6b22d169086e50e
+8087	8185	7499163133524025	lib/libgtest_main.a	7a603dba346ce8d4
+26	4319	7499163052925126	googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	729fb6c6835e1427
+12	7840	7499163052785125	googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	ab1cf358f871d41b
+7841	8068	7499163131074803	lib/libgtest.a	d1524f8d196b9470
+8219	8338	7499163134858252	lib/libgmock_main.a	7ed843c394860f75
+1509	2185	7499946144985891	C:/Users/sammi/Desktop/vko5Pylkkonen/tests/build/TrafficParserTest[1]_tests.cmake	6b2ed48669b4dc18
+40	1509	7499946123633244	CMakeFiles/TrafficParserTest.dir/TrafficParserTest.cpp.obj	d105f3b7fd4f48ad
+9	830	7503393645062916	build.ninja	332cee25e8ff1f7a
+3	26	7499163015112474	clean	495928527b1d4404
+1571	2127	7499946144416792	TimeParserTest.exe	8faee9eb41e92f3f
+15	1571	7499946123387014	CMakeFiles/TimeParserTest.dir/TimeParserTest.cpp.obj	45b3af127df71685
+1571	2127	7499946144416792	TimeParserTest[1]_tests.cmake	8faee9eb41e92f3f
+1571	2127	7499946144416792	C:/Users/sammi/Desktop/vko5Pylkkonen/tests/build/TimeParserTest[1]_tests.cmake	8faee9eb41e92f3f
+1509	2185	7499946144985891	TrafficParserTest.exe	6b2ed48669b4dc18
+1509	2185	7499946144985891	TrafficParserTest[1]_tests.cmake	6b2ed48669b4dc18

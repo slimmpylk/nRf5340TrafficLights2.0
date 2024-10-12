@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/sammi/Desktop/vko5Pylkkonen/tests/build/TrafficParserTest[1]_tests.cmake")
+  include("C:/Users/sammi/Desktop/vko5Pylkkonen/tests/build/TrafficParserTest[1]_tests.cmake")
+else()
+  add_test(TrafficParserTest_NOT_BUILT TrafficParserTest_NOT_BUILT)
+endif()
